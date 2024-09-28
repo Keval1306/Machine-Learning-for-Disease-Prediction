@@ -13,7 +13,7 @@ This repository contains the implementation of a machine learning system designe
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
