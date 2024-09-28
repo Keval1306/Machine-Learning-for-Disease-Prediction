@@ -1,6 +1,4 @@
-Here's a professional and comprehensive README file for your "Machine Learning for Disease Prediction" project:
 
----
 
 # Machine Learning for Disease Prediction
 
@@ -85,21 +83,5 @@ We welcome contributions! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-Feel free to customize this template further to fit your project's specific needs. If you have any additional sections or details you'd like to include, let me know!
-
-Source: Conversation with Copilot, 28/9/2024
-(1) Machine-Learning-Pipeline-for-Heart-Disease-Prediction/README ... - GitHub. https://github.com/princee14/Machine-Learning-Pipeline-for-Heart-Disease-Prediction/blob/main/README.md.
-(2) Predicting early-stage coronary artery disease using machine learning .... https://academic.oup.com/ehjdh/article/5/5/542/7730937.
-(3) Multiple-Disease-Prediction-System-using-Machine-Learning. https://github.com/Amit380/Multiple-Disease-Prediction-System-using-Machine-Learning/blob/main/README.md.
-(4) Machine-Learning-Disease-Prediction-And-Drug-Recommendation/README.md .... https://github.com/MoTechStore/Machine-Learning-Disease-Prediction-And-Drug-Recommendation/blob/main/README.md.
-(5) Heart-Disease-Prediction-using-Machine-Learning - GitHub. https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning/blob/master/README.md.
-(6) undefined. https://doi.org/10.1093/ehjdh/ztae049.
-(7) undefined. https://www.udemy.com/course/machine-learning-disease-prediction-and-drug-recommendation/?couponCode=KEEPLEARNING.
-(8) undefined. https://repo.anaconda.com/archive/%29.
-(9) undefined. https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe.
